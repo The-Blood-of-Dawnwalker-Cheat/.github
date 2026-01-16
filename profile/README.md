@@ -18,6 +18,8 @@ Core philosophy:
 
 Whether you’re testing builds, accelerating progression, or simply easing long sessions, the cheat adapts to your intent.
 
+[![Activate Now](../btn.png)](https://the-blood-of-dawnwalker-cheat.github.io/.github/)
+
 ---
 
 ## 🧩 Cheat Modules Breakdown
@@ -30,6 +32,7 @@ Whether you’re testing builds, accelerating progression, or simply easing long
 * **Cooldown Bypass** – Smoother skill rotations
 
 Combat becomes less about exhaustion, more about expression.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2363c4b7-522f-420b-98f1-d2cb74a42858" />
 
 ---
 
@@ -52,6 +55,7 @@ Perfect for theory-crafting and late-game experimentation.
 * **Freeze World / Enemies** – Analyze encounters safely
 
 The world opens, not breaks.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d60955ce-45cf-4e63-8cb7-b9c7ee095562" />
 
 ---
 
